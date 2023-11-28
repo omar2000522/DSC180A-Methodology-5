@@ -1,4 +1,3 @@
-# Omar Almaymouni
 UCSD Email: oalmaymo@ucsd.edu
 
 ## Section Information
